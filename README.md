@@ -1,2 +1,2 @@
-# JavaCoure
+# JavaCourse
 Udemy course on java
